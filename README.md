@@ -2,14 +2,13 @@
 
 Je suis Amri Karim, futur diplomé en Data Science et sportif à mes heures perdus basé Toulouse, France.
 ## Entreprise
-Je travaille actuellement au sein de l'entreprise SPIE CityNetworks en tant qu'analyste de données, mes missions principales sont : 
+Je travaille actuellement au sein de l'entreprise ALTEN en tant qu'analyste de données et ingénieur système MBSE, mes missions principales sont : 
 
-- Gestion du flux de données,
-- Administration base de données,
-- ETL, 
-- Creation de dashboard, actualisation et interprétation des données,
-- Création d'un BOT qui puisse répondre à des appels d'offres,
-- 
+- Gestion du flux de données
+- Administration base de données
+- Gestion de Projet
+- Architechture système MBSE et smart Requirments modeling
+  
 ### Ecole 
 Alternant au sein de l'IA School, j'acquiert les compétences suivantes : 
 
