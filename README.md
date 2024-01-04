@@ -21,7 +21,7 @@ Alternant au sein de l'IA School, j'acquiert les compétences suivantes :
 
 ## Projets 
 - **R shiny app > Développement d'une application pour l'analyse des données criminelles à Los Angeles de 2020 à ce jour ainsi que des visualisations** :
-   [GitHub](https://github.com/universdesdonnees/PredictCovid)
+   [GitHub](https://github.com/doriankari/RshinyApp.git)
 - **Projet SQL > pour apprendre SQL à un novice + utilisation de la fonction Trigger** :
    [Projet SQL](https://view.genial.ly/65607ac013dc120011ad03e1/presentation-presentation-projet-de-recherches) 
 
