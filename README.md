@@ -19,7 +19,7 @@ Je suis Amri Karim, futur diplomé en Data Science et sportif à mes heures perd
 - [Git - Introduction](https://github.com/universdesdonnees/Git-Introduction)
 
 ## Me Contacter 
-Vous pouvez me contacter à l'adresse : amri.dk@hotmail.com
+Vous pouvez me contacter à l'adresse : amri.dk@hotmail.com ou [My Linkedin](https://www.linkedin.com/in/dorian-amri-8685a2177/)
 <!--
 **doriankari/doriankari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
