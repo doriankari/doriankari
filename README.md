@@ -19,6 +19,8 @@ Alternant au sein de l'IA School, j'acquiert les compétences suivantes :
 - Datathon + Présentation de projet 
 
 ## Projets 
+- **Spotify an R shiny app > Développement d'une application pour l'analyse des données des artistes et sons présents sur la plateforme** :
+   [GitHub](https://github.com/doriankari/SpotifyAnalysis.git)
 - **ShopperSentimentAnalysis an R shiny app > Développement d'une application pour l'analyse des données des avis clients** :
    [GitHub](https://github.com/doriankari/ShopperSentimentsAnalysis.git)
 - **Crime L.A  an R shiny app  > Développement d'une application pour l'analyse des données criminelles à Los Angeles de 2020 à ce jour ainsi que des visualisations** :
