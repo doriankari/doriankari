@@ -19,9 +19,9 @@ Alternant au sein de l'IA School, j'acquiert les compétences suivantes :
 - Datathon + Présentation de projet 
 
 ## Projets 
-- **R shiny app > Développement d'une application pour l'analyse des données criminelles à Los Angeles de 2020 à ce jour ainsi que des visualisations** :
-   [GitHub](https://github.com/doriankari/ShopperSentimentAnalysis.git)
-- **R shiny app > Développement d'une application pour l'analyse des données criminelles à Los Angeles de 2020 à ce jour ainsi que des visualisations** :
+- **ShopperSentimentAnalysis an R shiny app > Développement d'une application pour l'analyse des données des avis clients** :
+   [GitHub](https://github.com/doriankari/ShopperSentimentsAnalysis.git)
+- **Crime L.A  an R shiny app  > Développement d'une application pour l'analyse des données criminelles à Los Angeles de 2020 à ce jour ainsi que des visualisations** :
    [GitHub](https://github.com/doriankari/RshinyApp.git)
 - **Projet SQL > pour apprendre SQL à un novice + utilisation de la fonction Trigger** :
    [Projet SQL](https://view.genial.ly/65607ac013dc120011ad03e1/presentation-presentation-projet-de-recherches) 
