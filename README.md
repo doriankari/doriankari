@@ -13,6 +13,10 @@
 [![Location](https://img.shields.io/badge/Toulouse-France-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Toulouse)
 [![Profile views](https://komarev.com/ghpvc/?username=Amrid-lab&style=for-the-badge&color=00C853&label=PROFILE+VIEWS)](https://github.com/Amrid-lab)
 
+![Current mission](https://img.shields.io/badge/CURRENT_MISSION-AKKODIS_x_ATR-00E5FF?style=flat-square)
+![Domain](https://img.shields.io/badge/DOMAIN-FLIGHT_WARNING_%26_AVIONICS-00C853?style=flat-square)
+![Academic](https://img.shields.io/badge/MASTER-AI_%26_BIG_DATA-7C3AED?style=flat-square)
+
 </div>
 
 ---
@@ -23,7 +27,7 @@ AI & Systems Engineer working at the intersection of **Generative AI**, **system
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Developer coding in front of multiple screens">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Data Science Animation">
 
 </div>
 
@@ -44,6 +48,32 @@ Domain              -> Avionics, Flight Warning, defence and electronics
 | **02** | **Production-oriented AI** | Move from experimentation to APIs, containers, model tracking and cloud-ready delivery. |
 | **03** | **Complex system models** | Structure requirements, architecture and validation evidence across the engineering lifecycle. |
 | **04** | **Technical data platforms** | Process, analyse and visualise engineering data at scale for decision support. |
+
+## AI systems blueprint
+
+```mermaid
+flowchart LR
+    A[Technical Data] --> B[OCR & Document AI]
+    B --> C[Embeddings & Vector Search]
+    C --> D[RAG & AI Agents]
+    D --> E[Engineering Decision Support]
+
+    F[Requirements] --> G[MBSE & System Models]
+    G --> H[Traceability & IVVQ]
+    H --> E
+
+    E --> I[Reliable Intelligent Systems]
+
+    style A fill:#0d1117,stroke:#00e5ff,color:#ffffff
+    style B fill:#0d1117,stroke:#00e5ff,color:#ffffff
+    style C fill:#0d1117,stroke:#7c3aed,color:#ffffff
+    style D fill:#0d1117,stroke:#ff2d95,color:#ffffff
+    style E fill:#0d1117,stroke:#00c853,color:#ffffff
+    style F fill:#0d1117,stroke:#00e5ff,color:#ffffff
+    style G fill:#0d1117,stroke:#7c3aed,color:#ffffff
+    style H fill:#0d1117,stroke:#00c853,color:#ffffff
+    style I fill:#00c853,stroke:#00e5ff,color:#000000
+```
 
 ## Technology radar
 
@@ -82,7 +112,7 @@ Domain              -> Avionics, Flight Warning, defence and electronics
 
 </div>
 
-## Selected work
+## Selected transmissions
 
 ### Enterprise RAG & AI Agent Platform
 
@@ -109,7 +139,7 @@ Machine Learning prototype for anomaly detection, functional diagnosis support a
 [![Crime Data](https://img.shields.io/badge/LA_Crime-Analytics-2563EB?style=for-the-badge&logo=r&logoColor=white)](https://github.com/Amrid-lab/RshinyApp)
 [![Web Scraping](https://img.shields.io/badge/Toulouse-Web_Scraping-F59E0B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Amrid-lab/Projet_Bar_Toulouse)
 
-## Experience signal
+## Mission log
 
 ```text
 2026 - now   AKKODIS x ATR          Avionics Systems Engineer - Flight Warning
@@ -119,6 +149,14 @@ Machine Learning prototype for anomaly detection, functional diagnosis support a
 ```
 
 Earlier aerospace and research experience with **APSYS / Airbus** in RAMS and **IRAP** in scientific electronics. Full background available in the resumes below.
+
+## Why this combination matters
+
+| AI mindset | Systems discipline | Engineering reality |
+|:---:|:---:|:---:|
+| Explore new models and architectures | Specify, trace and validate | Deliver for aerospace and defence contexts |
+| Extract knowledge from complex data | Control interfaces and requirements | Work across software, electronics and operations |
+| Prototype rapidly | Build explainable processes | Keep reliability at the centre |
 
 ## GitHub signal
 
