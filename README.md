@@ -21,6 +21,12 @@
 
 AI & Systems Engineer working at the intersection of **Generative AI**, **systems engineering** and **aerospace**. I build solutions that extract knowledge from technical documents, structure complex data and support reliable engineering decisions.
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Developer coding in front of multiple screens">
+
+</div>
+
 ```text
 AI / GenAI          -> OCR, NLP, RAG, AI agents, ML and Deep Learning
 Systems             -> MBSE, SysML, requirements, traceability and IVVQ
@@ -118,10 +124,10 @@ Earlier aerospace and research experience with **APSYS / Airbus** in RAMS and **
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amrid-lab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00C853&text_color=FFFFFF&ring_color=7C3AED)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrid-lab&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amrid-lab&theme=tokyonight)
 
-![GitHub streak](https://streak-stats.demolab.com?user=Amrid-lab&hide_border=true&background=0D1117&stroke=30363D&ring=00E5FF&fire=FF2D95&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00C853&sideLabels=00E5FF&dates=8B949E)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amrid-lab&theme=tokyonight)
+![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amrid-lab&theme=tokyonight)
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amrid-lab&bg_color=0D1117&color=00E5FF&line=00C853&point=FFFFFF&area=true&hide_border=true)
 
