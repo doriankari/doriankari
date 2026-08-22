@@ -136,8 +136,8 @@ Machine Learning prototype for anomaly detection, functional diagnosis support a
 
 [![Spotify](https://img.shields.io/badge/Spotify-Analysis-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/Amrid-lab/SpotifyAnalysis)
 [![Sentiment](https://img.shields.io/badge/Customer-Sentiment-FF6F61?style=for-the-badge&logo=r&logoColor=white)](https://github.com/Amrid-lab/ShopperSentimentsAnalysis)
-[![Crime Data](https://img.shields.io/badge/LA_Crime-Analytics-2563EB?style=for-the-badge&logo=r&logoColor=white)](https://github.com/Amrid-lab/RshinyApp)
-[![Web Scraping](https://img.shields.io/badge/Toulouse-Web_Scraping-F59E0B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Amrid-lab/Projet_Bar_Toulouse)
+[![Crime Data](https://img.shields.io/badge/LA_Crime-Analytics-2563EB?style=for-the-badge&logo=r&logoColor=white)](https://github.com/Amrid-lab/la-crime-analytics-dashboard)
+[![Web Scraping](https://img.shields.io/badge/Toulouse-Web_Scraping-F59E0B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Amrid-lab/toulouse-bars-web-scraper)
 
 ## Mission log
 
